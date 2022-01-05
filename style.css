@@ -4,12 +4,14 @@
     box-sizing: border-box;
 }
 body{
+    background:red;
     display: flex;
     height: 100vh;
     justify-content: center;
     align-items: center;
 }
 div{
+    color:lightgreen;
     display: flex;
     justify-content: center;
     align-items: center;
