@@ -11,6 +11,7 @@ body{
     align-items: center;
 }
 div{
+    text-decoration: none;
     color:white;
     display: flex;
     justify-content: center;
